@@ -8,7 +8,7 @@ Default target: [Workday careers](https://workday.wd5.myworkdayjobs.com/Workday)
 
 pytest-html report from **11 Sep 2026, 16:10 IST** on Windows / Python 3.12 — **7 passed, 1 failed**, 8 tests in 1m 51s.
 
-![pytest-html report: 7 passed, 1 failed](docs/pytest-report.png)
+![pytest-html report: 7 passed, 1 failed](docs/pytest-report.svg)
 
 | Result | Test | Notes |
 | --- | --- | --- |
