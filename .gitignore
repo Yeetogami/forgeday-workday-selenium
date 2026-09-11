@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.wdm/
+screenshots/*.png
+reports/
+.env
+profile.local.json
+*.log
+.DS_Store
+Thumbs.db
