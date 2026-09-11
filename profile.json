@@ -1,16 +1,16 @@
 {
-  "email": "qa.applicant@example.com",
-  "password": "ChangeMe_Workday1!",
-  "firstName": "Alex",
-  "lastName": "Rivera",
-  "country": "United States of America",
-  "address1": "100 Market Street",
-  "city": "San Francisco",
-  "region": "California",
-  "postalCode": "94105",
+  "email": "paavasgoyal@gmail.com",
+  "password": "your_password_here",
+  "firstName": "Paavas",
+  "lastName": "Goyal",
+  "country": "India",
+  "address1": "Crossing Republik",
+  "city": "Ghaziabad",
+  "region": "UP",
+  "postalCode": "201016",
   "phoneType": "Mobile",
-  "phone": "4155550199",
-  "linkedin": "https://www.linkedin.com/in/example",
+  "phone": "7701xxxxxx",
+  "linkedin": "https://www.linkedin.com/in/paavasgoyal24",
   "source": "LinkedIn",
   "legallyAuthorized": "Yes",
   "needsSponsorship": "No",
@@ -23,25 +23,25 @@
   ],
   "work": [
     {
-      "jobTitle": "QA Engineer",
-      "company": "Northline Labs",
-      "location": "San Francisco, CA",
-      "startMonth": "03",
-      "startYear": "2021",
-      "endMonth": "",
-      "endYear": "",
-      "currentlyWorkHere": true,
+      "jobTitle": "Intern",
+      "company": "eArbor",
+      "location": "Bangalore, IN",
+      "startMonth": "01",
+      "startYear": "2026",
+      "endMonth": "03",
+      "endYear": "2026",
+      "currentlyWorkHere": false,
       "description": "Own end-to-end Selenium coverage for career-site apply flows, including Workday tenants."
     }
   ],
   "education": [
     {
-      "school": "State University",
-      "degree": "Bachelor of Science",
+      "school": "VIT",
+      "degree": "Bachelor of Technology",
       "fieldOfStudy": "Computer Science",
-      "gpa": "3.7",
-      "firstYearAttended": "2016",
-      "lastYearAttended": "2020"
+      "gpa": "8.42",
+      "firstYearAttended": "2022",
+      "lastYearAttended": "2026"
     }
   ],
   "questions": [
